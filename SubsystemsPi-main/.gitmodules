@@ -1,0 +1,6 @@
+[submodule "Networking"]
+	path = Networking
+	url = https://github.com/BinghamtonRover/Networking
+[submodule "Subsystems"]
+	path = Subsystems
+	url = https://github.com/BinghamtonRover/Subsystems
