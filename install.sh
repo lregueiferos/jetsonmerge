@@ -1,5 +1,5 @@
-cd SubsystemsPi-main
+cd SubsystemsPi
 bash install.sh
 cd .. 
-cd SecondaryPi-main
+cd SecondaryPi
 bash install.sh

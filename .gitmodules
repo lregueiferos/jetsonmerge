@@ -1,0 +1,6 @@
+[submodule "SubsystemsPi"]
+	path = SubsystemsPi
+	url = https://github.com/BinghamtonRover/SubsystemsPi
+[submodule "SecondaryPi"]
+	path = SecondaryPi
+	url = https://github.com/BinghamtonRover/SecondaryPi
