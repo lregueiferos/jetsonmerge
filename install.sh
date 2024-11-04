@@ -7,5 +7,5 @@ bash install.sh
 cd .. 
 cd SecondaryPi
 bash install.sh
-echo "Installation is Complete"
+echo "Installation is Complete. system will restart now"
 sudo shutdown -r now
